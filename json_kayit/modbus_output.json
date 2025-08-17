@@ -1,0 +1,872 @@
+[
+  {
+    "direction": "request",
+    "packet_number": 4,
+    "timestamp": 1753169583.037786,
+    "src_ip": "192.168.216.128",
+    "src_port": 47968,
+    "dst_ip": "192.168.216.1",
+    "dst_port": 502,
+    "transaction_id": 1,
+    "function_code": 3,
+    "description": "READ_HOLDING_REGISTERS",
+    "raw_pdu": "03 00 00 00 0A"
+  }
+,
+  { "record_type": "values", "direction": "response", "function_code": 3, "start_address": 0, "values": [11554, 11554, 11554, 11554, 11554, 11554, 11554, 11554, 11554, 11554] },
+  {
+    "direction": "response",
+    "packet_number": 5,
+    "timestamp": 1753169583.038315,
+    "src_ip": "192.168.216.1",
+    "src_port": 502,
+    "dst_ip": "192.168.216.128",
+    "dst_port": 47968,
+    "transaction_id": 1,
+    "function_code": 3,
+    "description": "READ_HOLDING_REGISTERS",
+    "raw_pdu": "03 14 2D 22 2D 22 2D 22 2D 22 2D 22 2D 22 2D 22 2D 22 2D 22 2D 22"
+  }
+,
+  {
+    "direction": "request",
+    "packet_number": 7,
+    "timestamp": 1753169584.037978,
+    "src_ip": "192.168.216.128",
+    "src_port": 47968,
+    "dst_ip": "192.168.216.1",
+    "dst_port": 502,
+    "transaction_id": 2,
+    "function_code": 3,
+    "description": "READ_HOLDING_REGISTERS",
+    "raw_pdu": "03 00 00 00 0A"
+  }
+,
+  { "record_type": "values", "direction": "response", "function_code": 3, "start_address": 0, "values": [11554, 11554, 11554, 11554, 11554, 11554, 11554, 11554, 11554, 11554] },
+  {
+    "direction": "response",
+    "packet_number": 8,
+    "timestamp": 1753169584.046682,
+    "src_ip": "192.168.216.1",
+    "src_port": 502,
+    "dst_ip": "192.168.216.128",
+    "dst_port": 47968,
+    "transaction_id": 2,
+    "function_code": 3,
+    "description": "READ_HOLDING_REGISTERS",
+    "raw_pdu": "03 14 2D 22 2D 22 2D 22 2D 22 2D 22 2D 22 2D 22 2D 22 2D 22 2D 22"
+  }
+,
+  {
+    "direction": "request",
+    "packet_number": 10,
+    "timestamp": 1753169585.038126,
+    "src_ip": "192.168.216.128",
+    "src_port": 47968,
+    "dst_ip": "192.168.216.1",
+    "dst_port": 502,
+    "transaction_id": 3,
+    "function_code": 3,
+    "description": "READ_HOLDING_REGISTERS",
+    "raw_pdu": "03 00 00 00 0A"
+  }
+,
+  { "record_type": "values", "direction": "response", "function_code": 3, "start_address": 0, "values": [14124, 14124, 14124, 14124, 14124, 14124, 14124, 14124, 14124, 14124] },
+  {
+    "direction": "response",
+    "packet_number": 11,
+    "timestamp": 1753169585.044294,
+    "src_ip": "192.168.216.1",
+    "src_port": 502,
+    "dst_ip": "192.168.216.128",
+    "dst_port": 47968,
+    "transaction_id": 3,
+    "function_code": 3,
+    "description": "READ_HOLDING_REGISTERS",
+    "raw_pdu": "03 14 37 2C 37 2C 37 2C 37 2C 37 2C 37 2C 37 2C 37 2C 37 2C 37 2C"
+  }
+,
+  {
+    "direction": "request",
+    "packet_number": 13,
+    "timestamp": 1753169586.038553,
+    "src_ip": "192.168.216.128",
+    "src_port": 47968,
+    "dst_ip": "192.168.216.1",
+    "dst_port": 502,
+    "transaction_id": 4,
+    "function_code": 3,
+    "description": "READ_HOLDING_REGISTERS",
+    "raw_pdu": "03 00 00 00 0A"
+  }
+,
+  { "record_type": "values", "direction": "response", "function_code": 3, "start_address": 0, "values": [14124, 14124, 14124, 14124, 14124, 14124, 14124, 14124, 14124, 14124] },
+  {
+    "direction": "response",
+    "packet_number": 14,
+    "timestamp": 1753169586.055088,
+    "src_ip": "192.168.216.1",
+    "src_port": 502,
+    "dst_ip": "192.168.216.128",
+    "dst_port": 47968,
+    "transaction_id": 4,
+    "function_code": 3,
+    "description": "READ_HOLDING_REGISTERS",
+    "raw_pdu": "03 14 37 2C 37 2C 37 2C 37 2C 37 2C 37 2C 37 2C 37 2C 37 2C 37 2C"
+  }
+,
+  {
+    "direction": "request",
+    "packet_number": 16,
+    "timestamp": 1753169587.038891,
+    "src_ip": "192.168.216.128",
+    "src_port": 47968,
+    "dst_ip": "192.168.216.1",
+    "dst_port": 502,
+    "transaction_id": 5,
+    "function_code": 3,
+    "description": "READ_HOLDING_REGISTERS",
+    "raw_pdu": "03 00 00 00 0A"
+  }
+,
+  { "record_type": "values", "direction": "response", "function_code": 3, "start_address": 0, "values": [16694, 16694, 16694, 16694, 16694, 16694, 16694, 16694, 16694, 16694] },
+  {
+    "direction": "response",
+    "packet_number": 17,
+    "timestamp": 1753169587.053863,
+    "src_ip": "192.168.216.1",
+    "src_port": 502,
+    "dst_ip": "192.168.216.128",
+    "dst_port": 47968,
+    "transaction_id": 5,
+    "function_code": 3,
+    "description": "READ_HOLDING_REGISTERS",
+    "raw_pdu": "03 14 41 36 41 36 41 36 41 36 41 36 41 36 41 36 41 36 41 36 41 36"
+  }
+,
+  {
+    "direction": "request",
+    "packet_number": 19,
+    "timestamp": 1753169588.039092,
+    "src_ip": "192.168.216.128",
+    "src_port": 47968,
+    "dst_ip": "192.168.216.1",
+    "dst_port": 502,
+    "transaction_id": 6,
+    "function_code": 3,
+    "description": "READ_HOLDING_REGISTERS",
+    "raw_pdu": "03 00 00 00 0A"
+  }
+,
+  { "record_type": "values", "direction": "response", "function_code": 3, "start_address": 0, "values": [16694, 16694, 16694, 16694, 16694, 16694, 16694, 16694, 16694, 16694] },
+  {
+    "direction": "response",
+    "packet_number": 20,
+    "timestamp": 1753169588.050384,
+    "src_ip": "192.168.216.1",
+    "src_port": 502,
+    "dst_ip": "192.168.216.128",
+    "dst_port": 47968,
+    "transaction_id": 6,
+    "function_code": 3,
+    "description": "READ_HOLDING_REGISTERS",
+    "raw_pdu": "03 14 41 36 41 36 41 36 41 36 41 36 41 36 41 36 41 36 41 36 41 36"
+  }
+,
+  {
+    "direction": "request",
+    "packet_number": 22,
+    "timestamp": 1753169589.039355,
+    "src_ip": "192.168.216.128",
+    "src_port": 47968,
+    "dst_ip": "192.168.216.1",
+    "dst_port": 502,
+    "transaction_id": 7,
+    "function_code": 3,
+    "description": "READ_HOLDING_REGISTERS",
+    "raw_pdu": "03 00 00 00 0A"
+  }
+,
+  { "record_type": "values", "direction": "response", "function_code": 3, "start_address": 0, "values": [16694, 16694, 16694, 16694, 16694, 16694, 16694, 16694, 16694, 16694] },
+  {
+    "direction": "response",
+    "packet_number": 23,
+    "timestamp": 1753169589.045476,
+    "src_ip": "192.168.216.1",
+    "src_port": 502,
+    "dst_ip": "192.168.216.128",
+    "dst_port": 47968,
+    "transaction_id": 7,
+    "function_code": 3,
+    "description": "READ_HOLDING_REGISTERS",
+    "raw_pdu": "03 14 41 36 41 36 41 36 41 36 41 36 41 36 41 36 41 36 41 36 41 36"
+  }
+,
+  {
+    "direction": "request",
+    "packet_number": 25,
+    "timestamp": 1753169590.039463,
+    "src_ip": "192.168.216.128",
+    "src_port": 47968,
+    "dst_ip": "192.168.216.1",
+    "dst_port": 502,
+    "transaction_id": 8,
+    "function_code": 3,
+    "description": "READ_HOLDING_REGISTERS",
+    "raw_pdu": "03 00 00 00 0A"
+  }
+,
+  { "record_type": "values", "direction": "response", "function_code": 3, "start_address": 0, "values": [19264, 19264, 19264, 19264, 19264, 19264, 19264, 19264, 19264, 19264] },
+  {
+    "direction": "response",
+    "packet_number": 26,
+    "timestamp": 1753169590.040834,
+    "src_ip": "192.168.216.1",
+    "src_port": 502,
+    "dst_ip": "192.168.216.128",
+    "dst_port": 47968,
+    "transaction_id": 8,
+    "function_code": 3,
+    "description": "READ_HOLDING_REGISTERS",
+    "raw_pdu": "03 14 4B 40 4B 40 4B 40 4B 40 4B 40 4B 40 4B 40 4B 40 4B 40 4B 40"
+  }
+,
+  {
+    "direction": "request",
+    "packet_number": 28,
+    "timestamp": 1753169591.039592,
+    "src_ip": "192.168.216.128",
+    "src_port": 47968,
+    "dst_ip": "192.168.216.1",
+    "dst_port": 502,
+    "transaction_id": 9,
+    "function_code": 3,
+    "description": "READ_HOLDING_REGISTERS",
+    "raw_pdu": "03 00 00 00 0A"
+  }
+,
+  { "record_type": "values", "direction": "response", "function_code": 3, "start_address": 0, "values": [19264, 19264, 19264, 19264, 19264, 19264, 19264, 19264, 19264, 19264] },
+  {
+    "direction": "response",
+    "packet_number": 29,
+    "timestamp": 1753169591.056012,
+    "src_ip": "192.168.216.1",
+    "src_port": 502,
+    "dst_ip": "192.168.216.128",
+    "dst_port": 47968,
+    "transaction_id": 9,
+    "function_code": 3,
+    "description": "READ_HOLDING_REGISTERS",
+    "raw_pdu": "03 14 4B 40 4B 40 4B 40 4B 40 4B 40 4B 40 4B 40 4B 40 4B 40 4B 40"
+  }
+,
+  {
+    "direction": "request",
+    "packet_number": 31,
+    "timestamp": 1753169592.040084,
+    "src_ip": "192.168.216.128",
+    "src_port": 47968,
+    "dst_ip": "192.168.216.1",
+    "dst_port": 502,
+    "transaction_id": 10,
+    "function_code": 3,
+    "description": "READ_HOLDING_REGISTERS",
+    "raw_pdu": "03 00 00 00 0A"
+  }
+,
+  { "record_type": "values", "direction": "response", "function_code": 3, "start_address": 0, "values": [21834, 21834, 21834, 21834, 21834, 21834, 21834, 21834, 21834, 21834] },
+  {
+    "direction": "response",
+    "packet_number": 32,
+    "timestamp": 1753169592.044180,
+    "src_ip": "192.168.216.1",
+    "src_port": 502,
+    "dst_ip": "192.168.216.128",
+    "dst_port": 47968,
+    "transaction_id": 10,
+    "function_code": 3,
+    "description": "READ_HOLDING_REGISTERS",
+    "raw_pdu": "03 14 55 4A 55 4A 55 4A 55 4A 55 4A 55 4A 55 4A 55 4A 55 4A 55 4A"
+  }
+,
+  {
+    "direction": "request",
+    "packet_number": 34,
+    "timestamp": 1753169593.040312,
+    "src_ip": "192.168.216.128",
+    "src_port": 47968,
+    "dst_ip": "192.168.216.1",
+    "dst_port": 502,
+    "transaction_id": 11,
+    "function_code": 3,
+    "description": "READ_HOLDING_REGISTERS",
+    "raw_pdu": "03 00 00 00 0A"
+  }
+,
+  { "record_type": "values", "direction": "response", "function_code": 3, "start_address": 0, "values": [21834, 21834, 21834, 21834, 21834, 21834, 21834, 21834, 21834, 21834] },
+  {
+    "direction": "response",
+    "packet_number": 35,
+    "timestamp": 1753169593.042774,
+    "src_ip": "192.168.216.1",
+    "src_port": 502,
+    "dst_ip": "192.168.216.128",
+    "dst_port": 47968,
+    "transaction_id": 11,
+    "function_code": 3,
+    "description": "READ_HOLDING_REGISTERS",
+    "raw_pdu": "03 14 55 4A 55 4A 55 4A 55 4A 55 4A 55 4A 55 4A 55 4A 55 4A 55 4A"
+  }
+,
+  {
+    "direction": "request",
+    "packet_number": 37,
+    "timestamp": 1753169594.040461,
+    "src_ip": "192.168.216.128",
+    "src_port": 47968,
+    "dst_ip": "192.168.216.1",
+    "dst_port": 502,
+    "transaction_id": 12,
+    "function_code": 3,
+    "description": "READ_HOLDING_REGISTERS",
+    "raw_pdu": "03 00 00 00 0A"
+  }
+,
+  { "record_type": "values", "direction": "response", "function_code": 3, "start_address": 0, "values": [24404, 24404, 24404, 24404, 24404, 24404, 24404, 24404, 24404, 24404] },
+  {
+    "direction": "response",
+    "packet_number": 38,
+    "timestamp": 1753169594.051376,
+    "src_ip": "192.168.216.1",
+    "src_port": 502,
+    "dst_ip": "192.168.216.128",
+    "dst_port": 47968,
+    "transaction_id": 12,
+    "function_code": 3,
+    "description": "READ_HOLDING_REGISTERS",
+    "raw_pdu": "03 14 5F 54 5F 54 5F 54 5F 54 5F 54 5F 54 5F 54 5F 54 5F 54 5F 54"
+  }
+,
+  {
+    "direction": "request",
+    "packet_number": 40,
+    "timestamp": 1753169595.040778,
+    "src_ip": "192.168.216.128",
+    "src_port": 47968,
+    "dst_ip": "192.168.216.1",
+    "dst_port": 502,
+    "transaction_id": 13,
+    "function_code": 3,
+    "description": "READ_HOLDING_REGISTERS",
+    "raw_pdu": "03 00 00 00 0A"
+  }
+,
+  { "record_type": "values", "direction": "response", "function_code": 3, "start_address": 0, "values": [24404, 24404, 24404, 24404, 24404, 24404, 24404, 24404, 24404, 24404] },
+  {
+    "direction": "response",
+    "packet_number": 41,
+    "timestamp": 1753169595.048946,
+    "src_ip": "192.168.216.1",
+    "src_port": 502,
+    "dst_ip": "192.168.216.128",
+    "dst_port": 47968,
+    "transaction_id": 13,
+    "function_code": 3,
+    "description": "READ_HOLDING_REGISTERS",
+    "raw_pdu": "03 14 5F 54 5F 54 5F 54 5F 54 5F 54 5F 54 5F 54 5F 54 5F 54 5F 54"
+  }
+,
+  {
+    "direction": "request",
+    "packet_number": 43,
+    "timestamp": 1753169596.041023,
+    "src_ip": "192.168.216.128",
+    "src_port": 47968,
+    "dst_ip": "192.168.216.1",
+    "dst_port": 502,
+    "transaction_id": 14,
+    "function_code": 3,
+    "description": "READ_HOLDING_REGISTERS",
+    "raw_pdu": "03 00 00 00 0A"
+  }
+,
+  { "record_type": "values", "direction": "response", "function_code": 3, "start_address": 0, "values": [24404, 24404, 24404, 24404, 24404, 24404, 24404, 24404, 24404, 24404] },
+  {
+    "direction": "response",
+    "packet_number": 44,
+    "timestamp": 1753169596.047416,
+    "src_ip": "192.168.216.1",
+    "src_port": 502,
+    "dst_ip": "192.168.216.128",
+    "dst_port": 47968,
+    "transaction_id": 14,
+    "function_code": 3,
+    "description": "READ_HOLDING_REGISTERS",
+    "raw_pdu": "03 14 5F 54 5F 54 5F 54 5F 54 5F 54 5F 54 5F 54 5F 54 5F 54 5F 54"
+  }
+,
+  {
+    "direction": "request",
+    "packet_number": 46,
+    "timestamp": 1753169597.041119,
+    "src_ip": "192.168.216.128",
+    "src_port": 47968,
+    "dst_ip": "192.168.216.1",
+    "dst_port": 502,
+    "transaction_id": 15,
+    "function_code": 3,
+    "description": "READ_HOLDING_REGISTERS",
+    "raw_pdu": "03 00 00 00 0A"
+  }
+,
+  { "record_type": "values", "direction": "response", "function_code": 3, "start_address": 0, "values": [26974, 26974, 26974, 26974, 26974, 26974, 26974, 26974, 26974, 26974] },
+  {
+    "direction": "response",
+    "packet_number": 47,
+    "timestamp": 1753169597.046129,
+    "src_ip": "192.168.216.1",
+    "src_port": 502,
+    "dst_ip": "192.168.216.128",
+    "dst_port": 47968,
+    "transaction_id": 15,
+    "function_code": 3,
+    "description": "READ_HOLDING_REGISTERS",
+    "raw_pdu": "03 14 69 5E 69 5E 69 5E 69 5E 69 5E 69 5E 69 5E 69 5E 69 5E 69 5E"
+  }
+,
+  {
+    "direction": "request",
+    "packet_number": 49,
+    "timestamp": 1753169598.041562,
+    "src_ip": "192.168.216.128",
+    "src_port": 47968,
+    "dst_ip": "192.168.216.1",
+    "dst_port": 502,
+    "transaction_id": 16,
+    "function_code": 3,
+    "description": "READ_HOLDING_REGISTERS",
+    "raw_pdu": "03 00 00 00 0A"
+  }
+,
+  { "record_type": "values", "direction": "response", "function_code": 3, "start_address": 0, "values": [26974, 26974, 26974, 26974, 26974, 26974, 26974, 26974, 26974, 26974] },
+  {
+    "direction": "response",
+    "packet_number": 50,
+    "timestamp": 1753169598.057638,
+    "src_ip": "192.168.216.1",
+    "src_port": 502,
+    "dst_ip": "192.168.216.128",
+    "dst_port": 47968,
+    "transaction_id": 16,
+    "function_code": 3,
+    "description": "READ_HOLDING_REGISTERS",
+    "raw_pdu": "03 14 69 5E 69 5E 69 5E 69 5E 69 5E 69 5E 69 5E 69 5E 69 5E 69 5E"
+  }
+,
+  {
+    "direction": "request",
+    "packet_number": 52,
+    "timestamp": 1753169599.041779,
+    "src_ip": "192.168.216.128",
+    "src_port": 47968,
+    "dst_ip": "192.168.216.1",
+    "dst_port": 502,
+    "transaction_id": 17,
+    "function_code": 3,
+    "description": "READ_HOLDING_REGISTERS",
+    "raw_pdu": "03 00 00 00 0A"
+  }
+,
+  { "record_type": "values", "direction": "response", "function_code": 3, "start_address": 0, "values": [26974, 26974, 26974, 26974, 26974, 26974, 26974, 26974, 26974, 26974] },
+  {
+    "direction": "response",
+    "packet_number": 53,
+    "timestamp": 1753169599.055420,
+    "src_ip": "192.168.216.1",
+    "src_port": 502,
+    "dst_ip": "192.168.216.128",
+    "dst_port": 47968,
+    "transaction_id": 17,
+    "function_code": 3,
+    "description": "READ_HOLDING_REGISTERS",
+    "raw_pdu": "03 14 69 5E 69 5E 69 5E 69 5E 69 5E 69 5E 69 5E 69 5E 69 5E 69 5E"
+  }
+,
+  {
+    "direction": "request",
+    "packet_number": 55,
+    "timestamp": 1753169600.042051,
+    "src_ip": "192.168.216.128",
+    "src_port": 47968,
+    "dst_ip": "192.168.216.1",
+    "dst_port": 502,
+    "transaction_id": 18,
+    "function_code": 3,
+    "description": "READ_HOLDING_REGISTERS",
+    "raw_pdu": "03 00 00 00 0A"
+  }
+,
+  { "record_type": "values", "direction": "response", "function_code": 3, "start_address": 0, "values": [29544, 29544, 29544, 29544, 29544, 29544, 29544, 29544, 29544, 29544] },
+  {
+    "direction": "response",
+    "packet_number": 56,
+    "timestamp": 1753169600.050443,
+    "src_ip": "192.168.216.1",
+    "src_port": 502,
+    "dst_ip": "192.168.216.128",
+    "dst_port": 47968,
+    "transaction_id": 18,
+    "function_code": 3,
+    "description": "READ_HOLDING_REGISTERS",
+    "raw_pdu": "03 14 73 68 73 68 73 68 73 68 73 68 73 68 73 68 73 68 73 68 73 68"
+  }
+,
+  {
+    "direction": "request",
+    "packet_number": 58,
+    "timestamp": 1753169601.042225,
+    "src_ip": "192.168.216.128",
+    "src_port": 47968,
+    "dst_ip": "192.168.216.1",
+    "dst_port": 502,
+    "transaction_id": 19,
+    "function_code": 3,
+    "description": "READ_HOLDING_REGISTERS",
+    "raw_pdu": "03 00 00 00 0A"
+  }
+,
+  { "record_type": "values", "direction": "response", "function_code": 3, "start_address": 0, "values": [29544, 29544, 29544, 29544, 29544, 29544, 29544, 29544, 29544, 29544] },
+  {
+    "direction": "response",
+    "packet_number": 59,
+    "timestamp": 1753169601.045567,
+    "src_ip": "192.168.216.1",
+    "src_port": 502,
+    "dst_ip": "192.168.216.128",
+    "dst_port": 47968,
+    "transaction_id": 19,
+    "function_code": 3,
+    "description": "READ_HOLDING_REGISTERS",
+    "raw_pdu": "03 14 73 68 73 68 73 68 73 68 73 68 73 68 73 68 73 68 73 68 73 68"
+  }
+,
+  {
+    "direction": "request",
+    "packet_number": 61,
+    "timestamp": 1753169602.042343,
+    "src_ip": "192.168.216.128",
+    "src_port": 47968,
+    "dst_ip": "192.168.216.1",
+    "dst_port": 502,
+    "transaction_id": 20,
+    "function_code": 3,
+    "description": "READ_HOLDING_REGISTERS",
+    "raw_pdu": "03 00 00 00 0A"
+  }
+,
+  { "record_type": "values", "direction": "response", "function_code": 3, "start_address": 0, "values": [32114, 32114, 32114, 32114, 32114, 32114, 32114, 32114, 32114, 32114] },
+  {
+    "direction": "response",
+    "packet_number": 62,
+    "timestamp": 1753169602.047970,
+    "src_ip": "192.168.216.1",
+    "src_port": 502,
+    "dst_ip": "192.168.216.128",
+    "dst_port": 47968,
+    "transaction_id": 20,
+    "function_code": 3,
+    "description": "READ_HOLDING_REGISTERS",
+    "raw_pdu": "03 14 7D 72 7D 72 7D 72 7D 72 7D 72 7D 72 7D 72 7D 72 7D 72 7D 72"
+  }
+,
+  {
+    "direction": "request",
+    "packet_number": 64,
+    "timestamp": 1753169603.042431,
+    "src_ip": "192.168.216.128",
+    "src_port": 47968,
+    "dst_ip": "192.168.216.1",
+    "dst_port": 502,
+    "transaction_id": 21,
+    "function_code": 3,
+    "description": "READ_HOLDING_REGISTERS",
+    "raw_pdu": "03 00 00 00 0A"
+  }
+,
+  { "record_type": "values", "direction": "response", "function_code": 3, "start_address": 0, "values": [32114, 32114, 32114, 32114, 32114, 32114, 32114, 32114, 32114, 32114] },
+  {
+    "direction": "response",
+    "packet_number": 65,
+    "timestamp": 1753169603.057159,
+    "src_ip": "192.168.216.1",
+    "src_port": 502,
+    "dst_ip": "192.168.216.128",
+    "dst_port": 47968,
+    "transaction_id": 21,
+    "function_code": 3,
+    "description": "READ_HOLDING_REGISTERS",
+    "raw_pdu": "03 14 7D 72 7D 72 7D 72 7D 72 7D 72 7D 72 7D 72 7D 72 7D 72 7D 72"
+  }
+,
+  {
+    "direction": "request",
+    "packet_number": 67,
+    "timestamp": 1753169604.042590,
+    "src_ip": "192.168.216.128",
+    "src_port": 47968,
+    "dst_ip": "192.168.216.1",
+    "dst_port": 502,
+    "transaction_id": 22,
+    "function_code": 3,
+    "description": "READ_HOLDING_REGISTERS",
+    "raw_pdu": "03 00 00 00 0A"
+  }
+,
+  { "record_type": "values", "direction": "response", "function_code": 3, "start_address": 0, "values": [34684, 34684, 34684, 34684, 34684, 34684, 34684, 34684, 34684, 34684] },
+  {
+    "direction": "response",
+    "packet_number": 68,
+    "timestamp": 1753169604.058091,
+    "src_ip": "192.168.216.1",
+    "src_port": 502,
+    "dst_ip": "192.168.216.128",
+    "dst_port": 47968,
+    "transaction_id": 22,
+    "function_code": 3,
+    "description": "READ_HOLDING_REGISTERS",
+    "raw_pdu": "03 14 87 7C 87 7C 87 7C 87 7C 87 7C 87 7C 87 7C 87 7C 87 7C 87 7C"
+  }
+,
+  {
+    "direction": "request",
+    "packet_number": 70,
+    "timestamp": 1753169605.042783,
+    "src_ip": "192.168.216.128",
+    "src_port": 47968,
+    "dst_ip": "192.168.216.1",
+    "dst_port": 502,
+    "transaction_id": 23,
+    "function_code": 3,
+    "description": "READ_HOLDING_REGISTERS",
+    "raw_pdu": "03 00 00 00 0A"
+  }
+,
+  { "record_type": "values", "direction": "response", "function_code": 3, "start_address": 0, "values": [34684, 34684, 34684, 34684, 34684, 34684, 34684, 34684, 34684, 34684] },
+  {
+    "direction": "response",
+    "packet_number": 71,
+    "timestamp": 1753169605.059053,
+    "src_ip": "192.168.216.1",
+    "src_port": 502,
+    "dst_ip": "192.168.216.128",
+    "dst_port": 47968,
+    "transaction_id": 23,
+    "function_code": 3,
+    "description": "READ_HOLDING_REGISTERS",
+    "raw_pdu": "03 14 87 7C 87 7C 87 7C 87 7C 87 7C 87 7C 87 7C 87 7C 87 7C 87 7C"
+  }
+,
+  {
+    "direction": "request",
+    "packet_number": 73,
+    "timestamp": 1753169606.042889,
+    "src_ip": "192.168.216.128",
+    "src_port": 47968,
+    "dst_ip": "192.168.216.1",
+    "dst_port": 502,
+    "transaction_id": 24,
+    "function_code": 3,
+    "description": "READ_HOLDING_REGISTERS",
+    "raw_pdu": "03 00 00 00 0A"
+  }
+,
+  { "record_type": "values", "direction": "response", "function_code": 3, "start_address": 0, "values": [34684, 34684, 34684, 34684, 34684, 34684, 34684, 34684, 34684, 34684] },
+  {
+    "direction": "response",
+    "packet_number": 74,
+    "timestamp": 1753169606.050476,
+    "src_ip": "192.168.216.1",
+    "src_port": 502,
+    "dst_ip": "192.168.216.128",
+    "dst_port": 47968,
+    "transaction_id": 24,
+    "function_code": 3,
+    "description": "READ_HOLDING_REGISTERS",
+    "raw_pdu": "03 14 87 7C 87 7C 87 7C 87 7C 87 7C 87 7C 87 7C 87 7C 87 7C 87 7C"
+  }
+,
+  {
+    "direction": "request",
+    "packet_number": 76,
+    "timestamp": 1753169607.043328,
+    "src_ip": "192.168.216.128",
+    "src_port": 47968,
+    "dst_ip": "192.168.216.1",
+    "dst_port": 502,
+    "transaction_id": 25,
+    "function_code": 3,
+    "description": "READ_HOLDING_REGISTERS",
+    "raw_pdu": "03 00 00 00 0A"
+  }
+,
+  { "record_type": "values", "direction": "response", "function_code": 3, "start_address": 0, "values": [37254, 37254, 37254, 37254, 37254, 37254, 37254, 37254, 37254, 37254] },
+  {
+    "direction": "response",
+    "packet_number": 77,
+    "timestamp": 1753169607.049298,
+    "src_ip": "192.168.216.1",
+    "src_port": 502,
+    "dst_ip": "192.168.216.128",
+    "dst_port": 47968,
+    "transaction_id": 25,
+    "function_code": 3,
+    "description": "READ_HOLDING_REGISTERS",
+    "raw_pdu": "03 14 91 86 91 86 91 86 91 86 91 86 91 86 91 86 91 86 91 86 91 86"
+  }
+,
+  {
+    "direction": "request",
+    "packet_number": 79,
+    "timestamp": 1753169608.043411,
+    "src_ip": "192.168.216.128",
+    "src_port": 47968,
+    "dst_ip": "192.168.216.1",
+    "dst_port": 502,
+    "transaction_id": 26,
+    "function_code": 3,
+    "description": "READ_HOLDING_REGISTERS",
+    "raw_pdu": "03 00 00 00 0A"
+  }
+,
+  { "record_type": "values", "direction": "response", "function_code": 3, "start_address": 0, "values": [37254, 37254, 37254, 37254, 37254, 37254, 37254, 37254, 37254, 37254] },
+  {
+    "direction": "response",
+    "packet_number": 80,
+    "timestamp": 1753169608.053127,
+    "src_ip": "192.168.216.1",
+    "src_port": 502,
+    "dst_ip": "192.168.216.128",
+    "dst_port": 47968,
+    "transaction_id": 26,
+    "function_code": 3,
+    "description": "READ_HOLDING_REGISTERS",
+    "raw_pdu": "03 14 91 86 91 86 91 86 91 86 91 86 91 86 91 86 91 86 91 86 91 86"
+  }
+,
+  {
+    "direction": "request",
+    "packet_number": 82,
+    "timestamp": 1753169609.043529,
+    "src_ip": "192.168.216.128",
+    "src_port": 47968,
+    "dst_ip": "192.168.216.1",
+    "dst_port": 502,
+    "transaction_id": 27,
+    "function_code": 3,
+    "description": "READ_HOLDING_REGISTERS",
+    "raw_pdu": "03 00 00 00 0A"
+  }
+,
+  { "record_type": "values", "direction": "response", "function_code": 3, "start_address": 0, "values": [39824, 39824, 39824, 39824, 39824, 39824, 39824, 39824, 39824, 39824] },
+  {
+    "direction": "response",
+    "packet_number": 83,
+    "timestamp": 1753169609.048299,
+    "src_ip": "192.168.216.1",
+    "src_port": 502,
+    "dst_ip": "192.168.216.128",
+    "dst_port": 47968,
+    "transaction_id": 27,
+    "function_code": 3,
+    "description": "READ_HOLDING_REGISTERS",
+    "raw_pdu": "03 14 9B 90 9B 90 9B 90 9B 90 9B 90 9B 90 9B 90 9B 90 9B 90 9B 90"
+  }
+,
+  {
+    "direction": "request",
+    "packet_number": 85,
+    "timestamp": 1753169610.043603,
+    "src_ip": "192.168.216.128",
+    "src_port": 47968,
+    "dst_ip": "192.168.216.1",
+    "dst_port": 502,
+    "transaction_id": 28,
+    "function_code": 3,
+    "description": "READ_HOLDING_REGISTERS",
+    "raw_pdu": "03 00 00 00 0A"
+  }
+,
+  { "record_type": "values", "direction": "response", "function_code": 3, "start_address": 0, "values": [39824, 39824, 39824, 39824, 39824, 39824, 39824, 39824, 39824, 39824] },
+  {
+    "direction": "response",
+    "packet_number": 86,
+    "timestamp": 1753169610.045564,
+    "src_ip": "192.168.216.1",
+    "src_port": 502,
+    "dst_ip": "192.168.216.128",
+    "dst_port": 47968,
+    "transaction_id": 28,
+    "function_code": 3,
+    "description": "READ_HOLDING_REGISTERS",
+    "raw_pdu": "03 14 9B 90 9B 90 9B 90 9B 90 9B 90 9B 90 9B 90 9B 90 9B 90 9B 90"
+  }
+,
+  {
+    "direction": "request",
+    "packet_number": 88,
+    "timestamp": 1753169611.043680,
+    "src_ip": "192.168.216.128",
+    "src_port": 47968,
+    "dst_ip": "192.168.216.1",
+    "dst_port": 502,
+    "transaction_id": 29,
+    "function_code": 3,
+    "description": "READ_HOLDING_REGISTERS",
+    "raw_pdu": "03 00 00 00 0A"
+  }
+,
+  { "record_type": "values", "direction": "response", "function_code": 3, "start_address": 0, "values": [39824, 39824, 39824, 39824, 39824, 39824, 39824, 39824, 39824, 39824] },
+  {
+    "direction": "response",
+    "packet_number": 89,
+    "timestamp": 1753169611.054944,
+    "src_ip": "192.168.216.1",
+    "src_port": 502,
+    "dst_ip": "192.168.216.128",
+    "dst_port": 47968,
+    "transaction_id": 29,
+    "function_code": 3,
+    "description": "READ_HOLDING_REGISTERS",
+    "raw_pdu": "03 14 9B 90 9B 90 9B 90 9B 90 9B 90 9B 90 9B 90 9B 90 9B 90 9B 90"
+  }
+,
+  {
+    "direction": "request",
+    "packet_number": 91,
+    "timestamp": 1753169612.043817,
+    "src_ip": "192.168.216.128",
+    "src_port": 47968,
+    "dst_ip": "192.168.216.1",
+    "dst_port": 502,
+    "transaction_id": 30,
+    "function_code": 3,
+    "description": "READ_HOLDING_REGISTERS",
+    "raw_pdu": "03 00 00 00 0A"
+  }
+,
+  { "record_type": "values", "direction": "response", "function_code": 3, "start_address": 0, "values": [42394, 42394, 42394, 42394, 42394, 42394, 42394, 42394, 42394, 42394] },
+  {
+    "direction": "response",
+    "packet_number": 92,
+    "timestamp": 1753169612.055915,
+    "src_ip": "192.168.216.1",
+    "src_port": 502,
+    "dst_ip": "192.168.216.128",
+    "dst_port": 47968,
+    "transaction_id": 30,
+    "function_code": 3,
+    "description": "READ_HOLDING_REGISTERS",
+    "raw_pdu": "03 14 A5 9A A5 9A A5 9A A5 9A A5 9A A5 9A A5 9A A5 9A A5 9A A5 9A"
+  }
+
+]
